@@ -2,9 +2,9 @@
   "name": "node-http-server",
   "version": "1.0.0",
   "description": "Node.js example server starter project",
-  "main": "Node/index.js",
+  "main": "Node/hello_simple/index.js",
   "scripts": {
-    "start": "nodemon Node/index.js"
+    "start": "nodemon Node/hello_simple/index.js"
   },
   "dependencies": {},
   "devDependencies": {
