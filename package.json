@@ -1,14 +1,19 @@
 {
-  "name": "node-http-server",
+  "name": "node",
   "version": "1.0.0",
-  "description": "Node.js example server starter project",
-  "main": "Node/hello_simple/index.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon Node/hello_simple/index.js"
+    "hello_express": "nodemon hello_express/hello_express.js",
+    "hello_simple": "nodemon hello_simple/hello_simple.js"
   },
-  "dependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "devDependencies": {
-    "nodemon": "1.18.4"
-  },
-  "keywords": []
+    "nodemon": "^2.0.4"
+  }
 }
