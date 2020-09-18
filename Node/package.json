@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "hello_express": "nodemon hello_express/hello_express.js",
-    "hello_simple": "nodemon hello_simple/hello_simple.js"
+    "hello_simple": "nodemon hello_simple/hello_simple.js",
+    "api": "nodemon api_utils/api_utils.js"
   },
   "keywords": [],
   "author": "",

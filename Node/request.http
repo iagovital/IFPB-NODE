@@ -1,1 +1,6 @@
-GET http://localhost:3000/
+POST http://localhost:3000/uppcase
+Content-Type: application/json
+
+{
+  "input": "Lorem Ipsu"
+}
