@@ -6,7 +6,8 @@
   "scripts": {
     "hello_express": "nodemon hello_express/hello_express.js",
     "hello_simple": "nodemon hello_simple/hello_simple.js",
-    "api": "nodemon api_utils/api_texto.js"
+    "api_texto": "nodemon api_utils/api_texto.js",
+    "api_numero": "nodemon api_utils/api_numero.js"
   },
   "keywords": [],
   "author": "",

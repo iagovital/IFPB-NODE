@@ -1,6 +1,1 @@
-POST http://localhost:3000/uppcase
-Content-Type: application/json
-
-{
-  "input": "Lorem Ipsu"
-}
+GET http://localhost:3000/maximo?maximos=1,2,3
